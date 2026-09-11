@@ -1,0 +1,19 @@
+# Data files - too big for a repo
+data/nesmdb_midi/
+data/nes_windows.csv
+data/sample_midis/
+
+# Trained model - regeneratable, and ~large
+output/model.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
